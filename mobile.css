@@ -1,0 +1,31 @@
+.box {
+    width: 360px;
+    margin: 3px 3px;
+    padding: 4px 4px;
+}
+
+#textBox {
+    width: 54vw;
+    height: 4vh;
+    margin: 5px 8px;
+    font-size: 1rem;
+}
+
+#addBtn {
+    width: 12.5vw;
+    height: 4.5vh;
+    border-radius: 12px;
+}
+
+ul li{
+width: 57vw;
+}
+
+ul li span {
+    left: 54.1vw;
+}
+
+ul li::before {
+    width: 18px;
+    left: 47.5vw;
+}

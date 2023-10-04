@@ -1,0 +1,46 @@
+.box{
+   
+    width: 400px;
+    margin: 4px 4px;
+    padding: 4px 4px;
+}
+h2{
+    font-size: 2rem;
+}
+
+#textBox{
+    width: 28vw;
+    height: 4vh;
+    margin: 5px 8px;
+    font-size: 1rem;
+}
+
+#addBtn {
+    width: 6.5vw;
+    height: 4.5vh;
+    border-radius: 13px;
+}
+
+ul li {
+    background-color: rgb(255, 255, 255);
+    height: 2.5vh;
+    width: 32vw;
+    border: 2px solid black;
+    padding: 4px 4px;
+    margin: 16px 4px;
+    font-size: 1rem;
+}
+
+ul li span {
+    height: 19px;
+    width: 15px;
+    left: 30.1vw;
+    top: 2px;
+}
+
+ul li::before {
+height: 18px;
+width: 18px;
+left: 26.5vw;
+    top: 2px;
+}
